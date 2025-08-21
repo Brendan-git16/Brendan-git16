@@ -3,11 +3,11 @@
 <h2>👨‍💻 Information Technology Support Projects:</h2>
 
 - <b>Windows Virtualization Labs</b>
-  - [Virtual Box Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Virtual Box Project](https://github.com/Brendan-git16/Active-Directory-Lab)
 - <b>Operating System</b>
-  - [Windows 11, Linux Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Windows 11, Linux Project](https://github.com/Brendan-git16/Active-Directory-Lab)
 - <b>Networking</b>
-  - [Network/Systems Administration Project](https://github.com/joshmadakor1/Sentinel-Lab). <b><i>(USing NAGIOS)</b></i>
+  - [Network/Systems Administration Project](https://github.com/Brendan-git16/Active-Directory-Lab). <b><i>(USing NAGIOS)</b></i>
 - <b>Active Directory Home Lab</b>
   - [Active Directory Project.](https://github.com/Brendan-git16/Active-Directory-Lab)
 
