@@ -13,7 +13,7 @@
   - [Active Directory Project.](https://github.com/Brendan-git16/Active-Directory-Lab)
 
 - <b>FORTSIEM-LAB</b>
-  - [FORTSIEM-LAB-PROJECT](https://github.com/Brendan-git16/Active-Directory-Lab)
+  - [FORTSIEM-LAB-PROJECT](https://github.com/Brendan-git16/FORTSIM-LAB-PROJECT)
 
  - <b>Security / Vulnarabillity project</b>
     - [Metaploitable environment with Nessus](https://github.com/Brendan-git16/Active-Directory-Lab)
