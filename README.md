@@ -8,6 +8,7 @@
   - [Windows 11, Linux Project](https://github.com/Brendan-git16/Active-Directory-Lab)
 - <b>Networking</b>
   - [Network/Systems Administration Project](https://github.com/Brendan-git16/Active-Directory-Lab). <b><i>(USing NAGIOS)</b></i>
+  - [IPFIRE-NETWORK-SECURITY-LAB](https://github.com/Brendan-git16/Active-Directory-Lab)
 - <b>Active Directory Home Lab</b>
   - [Active Directory Project.](https://github.com/Brendan-git16/Active-Directory-Lab)
 
