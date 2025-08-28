@@ -8,7 +8,7 @@
   - [Windows 11, Linux Project](https://github.com/Brendan-git16/Active-Directory-Lab)
 - <b>Networking</b>
   - [Network/Systems Administration Project](https://github.com/Brendan-git16/Nagios-configuration-and-health-checks/blob/main/README.md). <b><i>(USing NAGIOS)</b></i>
-  - [IPFIRE-NETWORK-SECURITY-LAB](https://github.com/Brendan-git16/Active-Directory-Lab)
+
 - <b>Active Directory Home Lab</b>
   - [Active Directory Project.](https://github.com/Brendan-git16/Active-Directory-Lab)
 
@@ -17,7 +17,7 @@
 
  - <b>Security / Vulnarabillity project</b>
     - [Metaploitable environment with Nessus](https://github.com/Brendan-git16/Vulnerability-Scan-Report)
-
+   - [IPFIRE-NETWORK-SECURITY-LAB](https://github.com/Brendan-git16/IPFIRE-Security-Project)
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
