@@ -20,9 +20,9 @@
    - [IPFIRE-NETWORK-SECURITY-LAB](https://github.com/Brendan-git16/IPFIRE-Security-Project)
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Analyst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Crash course into Active Directory and IT support](https://www.youtube.com/watch?v=sndVKp6o_7M&pp=ygUQQWN0aXZlIGRpcmVjdG9yeQ%3D%3D)
+- [FORTSIEM Fundamental Training](https://www.youtube.com/watch?v=3-htKeNZTeE&pp=ygUQZm9ydGlzaWVtIGNvdXJzZQ%3D%3D)
+- [Web application Firewall](https://www.youtube.com/watch?v=N0dEC1nuWCQ&pp=ygUQZmlyZXdhbGwgcHJvamVjdNIHCQmyCQGHKiGM7w%3D%3D)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
