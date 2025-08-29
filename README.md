@@ -5,7 +5,7 @@
 - <b>Windows Virtualization Labs</b>
   - [Virtual Box and Machines](https://github.com/Brendan-git16/Virtual-box-installations)
 - <b>Operating System</b>
-  - [Windows 11, Linux Project](https://github.com/Brendan-git16/Active-Directory-Lab)
+  - [Custom OS on Raspberry Pi](https://github.com/Brendan-git16/Active-Directory-Lab)
 - <b>Networking</b>
   - [Network/Systems Administration Project](https://github.com/Brendan-git16/Nagios-configuration-and-health-checks/blob/main/README.md). <b><i>(USing NAGIOS)</b></i>
 
