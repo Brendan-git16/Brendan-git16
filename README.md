@@ -1,6 +1,6 @@
-<h1>Hi, I'm Brendan! <br/><a 
+<h1>Hi, my name is Brendan Ebuluofor, and I am an IT support technician. The project below displays my skills and growth in the field.<br/><a 
 
-<h2>👨‍💻 Information Technology Support Projects:</h2>
+<n><h2>👨‍💻 Information Technology Support Projects:</h2></n>
 
 - <b>Windows Virtualization Labs</b>
   - [Virtual Box Project](https://github.com/Brendan-git16/Active-Directory-Lab)
