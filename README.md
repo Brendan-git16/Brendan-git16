@@ -24,7 +24,6 @@
 - [FORTSIEM Fundamental Training](https://www.youtube.com/watch?v=3-htKeNZTeE&pp=ygUQZm9ydGlzaWVtIGNvdXJzZQ%3D%3D)
 - [Web application Firewall](https://www.youtube.com/watch?v=N0dEC1nuWCQ&pp=ygUQZmlyZXdhbGwgcHJvamVjdNIHCQmyCQGHKiGM7w%3D%3D)
 - [Nessus Tutorial](https://www.youtube.com/watch?v=x87gbgQD4eg&pp=ygUHbmVzc3Vzc9gG2wM%3D)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
